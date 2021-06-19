@@ -3,6 +3,8 @@ Signed JSON
 
 Signs JSON objects with ED25519 signatures
 
+Ported from [python-signedjson](https://github.com/matrix-org/python-signedjson)
+
 Features
 --------
 
