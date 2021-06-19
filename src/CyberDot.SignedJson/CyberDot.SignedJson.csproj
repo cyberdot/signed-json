@@ -7,6 +7,10 @@
         <Authors>CyberDot</Authors>
         <Description>Signs JSON objects with ED25519 signatures</Description>
         <PackageTags>JSON, signed JSON</PackageTags>
+        <PackageProjectUrl>https://github.com/cyberdot/signed-json</PackageProjectUrl>
+        <PackageLicenseUrl>https://www.apache.org/licenses/LICENSE-2.0</PackageLicenseUrl>
+        <RepositoryUrl>https://github.com/cyberdot/signed-json</RepositoryUrl>
+        <RepositoryType>GitHub</RepositoryType>
     </PropertyGroup>
     
     <ItemGroup>
