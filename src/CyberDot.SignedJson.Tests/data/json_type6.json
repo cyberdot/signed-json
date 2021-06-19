@@ -1,0 +1,21 @@
+{
+  "one": 1,
+  "two": 2,
+  "three": "Three four five",
+  "property": "another property",
+  "signatures": {
+    "domain": {
+      "ed25519:1": "q2cNgdkqQLFOAuEcSGkCWHAhSMgBFUhSq2eE3VHp1sv5M1NJ0LaWr/FdJTTcBb32eUDHoU2m9fySvWCbb+loCw"
+    }
+  },
+  "unsigned": {
+    "seven": 7,
+    "nine": 9,
+    "bla": "Bla bla bla",
+    "anotherProperty": 28,
+    "type": {
+      "test": 1,
+      "test3": 25
+    }
+  }
+}
